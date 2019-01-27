@@ -12,7 +12,7 @@ _This is my first official webpage that is posted on gh-pages, which includes a 
 
 * _To view the this webpage and its contents:_
 * _You must have a web browser (Firefox, Google Chrome, etc.)_
-* _Head to this web address .. on GitHub and click the link_
+* _Head to this web address https://mavizzle.github.io/code-review-1/ to view the project_
 * _Alternatively, you may clone this repository and view it on your local drive following these steps:_
 * _Download Git: head to [this link] (https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css/git-and-github) and follow the installation instructions depending on which operating system you use_
 * _Within Git/Git Bash, use the command " git clone https://github.com/mavizzle/code-review-1 " and you will have a working copy of this repository_
