@@ -14,9 +14,9 @@ _This is my first official webpage that is posted on gh-pages, which includes a 
 * _You must have a web browser (Firefox, Google Chrome, etc.)_
 * _Head to this web address .. on GitHub and click the link_
 * _Alternatively, you may clone this repository and view it on your local drive following these steps:_
-* _Download Git (head to https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css/git-and-github and follow the installation instructions depending on which operating system you use_
-* _Within Git/Git Bash, use the command "git clone https://github.com/mavizzle/code-review-1" and you will have a working copy of this repository_
-* _The files may be viewed on your computer's file explorer, or they may be viewed using a text editor such as Atom (download and installation instructions may be found here: https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css/text-editor-atom)
+* _Download Git: head to [this link] (https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css/git-and-github) and follow the installation instructions depending on which operating system you use_
+* _Within Git/Git Bash, use the command " git clone https://github.com/mavizzle/code-review-1 " and you will have a working copy of this repository_
+* _The files may be viewed on your computer's file explorer, or they may be viewed using a text editor such as Atom: download and installation instructions may be found [here] (https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css/text-editor-atom).
 
 ## Support and contact details
 
