@@ -4,14 +4,14 @@ body {
 
 ul {
   color: white;
-  text-align: center;
+  text-align: left;
   list-style-type: square;
   list-style-position: inside;
 }
 
 ol {
   color: white;
-  text-align: center;
+  text-align: left;
   list-style-position: inside;
 }
 
@@ -34,8 +34,6 @@ ol {
 .text-body {
   color: white;
 }
-
-
 
 #img-mini {
   margin-right: 5%;
