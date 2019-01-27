@@ -16,7 +16,7 @@ _This is my first official webpage that is posted on gh-pages, which includes a 
 * _Alternatively, you may clone this repository and view it on your local drive following these steps:_
 * _Download Git: head to [this link] (https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css/git-and-github) and follow the installation instructions depending on which operating system you use_
 * _Within Git/Git Bash, use the command " git clone https://github.com/mavizzle/code-review-1 " and you will have a working copy of this repository_
-* _The files may be viewed on your computer's file explorer, or they may be viewed using a text editor such as Atom: download and installation instructions may be found [here] (https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css/text-editor-atom).
+* _The files may be viewed on your computer's file explorer, or they may be viewed using a text editor such as Atom: download and installation instructions may be found [here] (https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css/text-editor-atom)_.
 
 ## Support and contact details
 
@@ -28,6 +28,6 @@ _This webpage utilizes HTML, CSS (custom and Bootsrap stylsheets), the text edit
 
 ### License
 
-* _This is an open source webpage, and may be accessed by anyone*
+* _This is an open source webpage, and may be accessed by anyone_*
 
 Copyright (c) 2019 **_{Lex Wilkins, Epicodus}_**
